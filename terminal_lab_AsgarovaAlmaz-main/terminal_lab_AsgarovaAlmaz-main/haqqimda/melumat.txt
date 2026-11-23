@@ -1,0 +1,12 @@
+Ad : Almaz
+Soyad: Esgerova
+Qrup: 5094-a2
+Fakulte: Informasiya ve komputer texnologiyalari fakulte
+Seher: Xirdalan
+Sevdiyim fenn: Emeliyyat sistemleri
+Sevdiyim emeliyyat sistemi: Linux
+Hobbi: Kitab oxumaq
+Sevdiyim musiqi: pop musiqi
+Arzum: istediyim ugurlara nail olmaq
+Dil: Ingilis,Turk,Azerbaycan
+Tarix: 21.11.2026
